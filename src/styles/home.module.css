@@ -1,0 +1,408 @@
+.textHighlight {
+    color: #00fcfe;
+}
+
+.iconLogo {
+    height: 50px;
+}
+
+.textLogo {
+    font-family: YAEU7hcr-Pk-0;
+    font-size: 38px;
+    line-height: 100%;
+}
+
+.textLogoSubtitle {
+    font-family: YAFdJmu7CPY-0;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.textNavBar {
+    font-family: YAFdJmu7CPY-0;
+    font-size: 21.33px;
+    font-weight: 700;
+}
+
+.textVideoTitle {
+    font-family: YAFdJmu7CPY-0;
+    font-size: 21.33px;
+    font-weight: 700;
+}
+
+.textVideoSubtitle {
+    font-family: YAEnS2G4JLg-0;
+    font-size: 14px;
+}
+
+.textSectionTitle28 {
+    font-family: YAFdJmu7CPY-0;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.textSectionTitle40 {
+    font-family: YAFdJmu7CPY-0;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.textSectionTitle48 {
+    font-family: YAFdJmu7CPY-0;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.textSectionContent {
+    font-family: YAEnS2G4JLg-0;
+    font-size: 21.33px;
+}
+
+.textExchange {
+    font-family: YAEnS2G4JLg-0;
+    font-size: 36px;
+    color: #f2f2f2;
+}
+
+.cardPrivacy {
+    font-family: YAFdJmu7CPY-0;
+    font-size: 42.66px;
+    font-weight: 700;
+    color: #1d3263;
+    border-radius: 60px;
+    background: #f2f2f2;
+    padding: 60px;
+    min-height: calc(4.5em + 120px);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.textCommunity {
+    font-family: YAEnS2G4JLg-0;
+    font-size: 37.33px;
+    font-weight: 700;
+}
+
+.textSocials {
+    font-family: YAFdJmu7CPY-0;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.iconSocials {
+    height: 50px;
+}
+
+.textIconText {
+    font-family: YAFdJmu7CPY-0;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.buttonJoin {
+    font-family: YAEnS2G4JLg-0;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 100%;
+    background: #d73cbe;
+    border-radius: 10px;
+    padding: 20px 40px;
+    width: fit-content;
+}
+
+
+.header {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.sectionHome {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin-left: 75px;
+    margin-right: 65px;
+    gap: 20px;
+}
+
+.sectionExchange {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 160px;
+    gap: 60px;
+}
+
+.sectionPrivacy {
+    display: grid;
+    gap: 40px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.sectionPrivacyCards {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.sectionPair {
+    display: grid;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 160px;
+    gap: 20px;
+}
+
+.sectionPairContent {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.sectionCustomer {
+    display: flex;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 140px;
+    gap: 20px;
+}
+
+.sectionCustomerL {
+    width: 55%;
+}
+
+.sectionCustomerR {
+    width: 45%;
+}
+
+.sectionWallets {
+    display: flex;
+    margin-left: 75px;
+    margin-right: 75px;
+    gap: 15%;
+}
+
+.sectionWalletL {
+    width: 35%;
+}
+
+.sectionWalletR {
+    width: 50%;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    row-gap: 35px;
+    column-gap: 70px;
+}
+
+.sectionCommunity {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-left: 75px;
+    margin-right: 75px;
+    gap: 80px;
+}
+
+.sectionCommunity a {
+    display: flex;
+}
+
+.c-ksvIpq .footer__content {
+    margin-top: 10px;
+}
+
+@media (max-width: 1365.95px) {
+    .sectionExchange {
+        margin-left: 6vw;
+        margin-right: 6vw;
+        margin-top: 120px;
+    }
+
+    .sectionPrivacy {
+        margin-left: 6vw;
+        margin-right: 6vw;
+        margin-top: 120px;
+    }
+
+    .sectionPair {
+        margin-left: 6vw;
+        margin-right: 6vw;
+        margin-top: 120px;
+    }
+
+    .sectionCustomer {
+        margin-left: 6vw;
+        margin-right: 6vw;
+        margin-top: 120px;
+    }
+
+    .sectionWallets {
+        margin-left: 6vw;
+        margin-right: 6vw;
+        margin-top: 120px;
+    }
+
+    .sectionCommunity {
+        margin-left: 6vw;
+        margin-right: 6vw;
+        margin-top: 120px;
+        margin-bottom: 6vw;
+    }
+
+    .iconSocials {
+        height: 30px;
+    }
+}
+
+@media (max-width: 1023.95px) {
+    .iconLogo {
+        height: 40px;
+    }
+
+    .textLogo {
+        font-size: 30px;
+    }
+
+    .textLogoSubtitle {
+        font-size: 10px;
+    }
+
+    .header {
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-top: 24px;
+    }
+
+    .textNavBar {
+        font-size: 2.08vw;
+    }
+
+    .sectionHome {
+        margin-left: 6vw;
+        margin-right: 6vw;
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+
+    .sectionExchange {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sectionPrivacyCards {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+
+    .sectionCustomer {
+        display: grid;
+        gap: 20px;
+    }
+
+    .sectionCustomerL {
+        width: 100%;
+    }
+
+    .sectionCustomerR {
+        width: 100%;
+    }
+
+    .sectionWallets {
+        display: grid;
+        gap: 80px;
+    }
+
+    .sectionWalletL {
+        width: 100%;
+    }
+
+    .sectionWalletR {
+        width: 100%;
+    }
+
+    .sectionCommunity {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        gap: 0;
+    }
+
+    .iconSocials {
+        height: 30px;
+    }
+
+    .socialsContainer {
+        margin-top: 6vw;
+        margin-bottom: 4vw;
+    }
+}
+
+@media (max-width: 767.95px) {
+    .textNavBar {
+        font-size: 3vw;
+    }
+
+    .sectionExchange {
+        gap: 20px;
+    }
+
+    .sectionWalletR {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        row-gap: 20px;
+        column-gap: 20px;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 767.95px) {
+    .textSocials {
+        font-size: 3vw;
+    }
+
+    .iconSocials {
+        height: 6.25vw;
+    }
+}
+
+@media (max-width: 479.95px) {
+    .textVideoTitle {
+        font-size: 7vw;
+    }
+
+    .textVideoSubtitle {
+        font-size: 5vw;
+    }
+
+    .textSectionTitle28 {
+        font-size: 7vw;
+    }
+
+    .textSectionTitle40 {
+        font-size: 7vw;
+    }
+
+    .textSectionTitle48 {
+        font-size: 7vw;
+    }
+
+    .textSectionContent {
+        font-size: 5vw;
+    }
+
+    .textExchange {
+        font-size: 5vw;
+    }
+
+    .cardPrivacy {
+        font-size: 7vw;
+    }
+
+    .textCommunity {
+        font-size: 7vw;
+    }
+
+    .textSocials {
+        font-size: 3vw;
+    }
+
+    .iconSocials {
+        height: 6.25vw;
+    }
+}
