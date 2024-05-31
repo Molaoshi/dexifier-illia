@@ -10,7 +10,6 @@
     "prettier": "prettier --write"
   },
   "dependencies": {
-    "@next/source-maps": "^1.0.0"
     "@lingui/core": "4.2.1",
     "@lingui/react": "4.2.1",
     "@rango-dev/logging-core": "^0.3.0",
